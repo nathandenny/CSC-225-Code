@@ -72,4 +72,4 @@ class BST{
 		this.left = null;
 		this.right = null;
 	}
-}
+} 
